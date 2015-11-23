@@ -1,0 +1,497 @@
+[
+    {
+        "DB":"ApplicationLog",
+        "Server":"localhost",
+        "ConnectionString":"Data Source=(local);Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"localhost",
+        "ConnectionString":"Data Source=(local);Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"localhost",
+        "ConnectionString":"Data Source=(local);Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"localhost",
+        "ConnectionString":"Data Source=(local);Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"localhost",
+        "ConnectionString":"Data Source=(local);Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"localhost",
+        "ConnectionString":"Data Source=(local);Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"localhost",
+        "ConnectionString":"Data Source=(local);Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"localhost",
+        "ConnectionString":"Data Source=(local);Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"localhost",
+        "ConnectionString":"Data Source=(local);Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    },
+	{
+        "DB":"ApplicationLog",
+        "Server":"VMDEVPRO-01",
+        "ConnectionString":"Data Source=VMDEVPRO-01;Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"VMDEVPRO-01",
+        "ConnectionString":"Data Source=VMDEVPRO-01;Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"VMDEVPRO-01",
+        "ConnectionString":"Data Source=VMDEVPRO-01;Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"VMDEVPRO-01",
+        "ConnectionString":"Data Source=VMDEVPRO-01;Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"VMDEVPRO-01",
+        "ConnectionString":"Data Source=VMDEVPRO-01;Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"VMDEVPRO-01",
+        "ConnectionString":"Data Source=VMDEVPRO-01;Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"VMDEVPRO-01",
+        "ConnectionString":"Data Source=VMDEVPRO-01;Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"VMDEVPRO-01",
+        "ConnectionString":"Data Source=VMDEVPRO-01;Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"VMDEVPRO-01",
+        "ConnectionString":"Data Source=VMDEVPRO-01;Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    },
+	{
+        "DB":"ApplicationLog",
+        "Server":"VMDEVPRO-02",
+        "ConnectionString":"Data Source=VMDEVPRO-02;Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"VMDEVPRO-02",
+        "ConnectionString":"Data Source=VMDEVPRO-02;Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"VMDEVPRO-02",
+        "ConnectionString":"Data Source=VMDEVPRO-02;Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"VMDEVPRO-02",
+        "ConnectionString":"Data Source=VMDEVPRO-02;Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"VMDEVPRO-02",
+        "ConnectionString":"Data Source=VMDEVPRO-02;Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"VMDEVPRO-02",
+        "ConnectionString":"Data Source=VMDEVPRO-02;Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"VMDEVPRO-02",
+        "ConnectionString":"Data Source=VMDEVPRO-02;Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"VMDEVPRO-02",
+        "ConnectionString":"Data Source=VMDEVPRO-02;Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"VMDEVPRO-02",
+        "ConnectionString":"Data Source=VMDEVPRO-02;Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    },
+	{
+        "DB":"ApplicationLog",
+        "Server":"VMDEVPRO-03",
+        "ConnectionString":"Data Source=VMDEVPRO-03;Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"VMDEVPRO-03",
+        "ConnectionString":"Data Source=VMDEVPRO-03;Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"VMDEVPRO-03",
+        "ConnectionString":"Data Source=VMDEVPRO-03;Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"VMDEVPRO-03",
+        "ConnectionString":"Data Source=VMDEVPRO-03;Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"VMDEVPRO-03",
+        "ConnectionString":"Data Source=VMDEVPRO-03;Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"VMDEVPRO-03",
+        "ConnectionString":"Data Source=VMDEVPRO-03;Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"VMDEVPRO-03",
+        "ConnectionString":"Data Source=VMDEVPRO-03;Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"VMDEVPRO-03",
+        "ConnectionString":"Data Source=VMDEVPRO-03;Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"VMDEVPRO-03",
+        "ConnectionString":"Data Source=VMDEVPRO-03;Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    },
+	{
+        "DB":"ApplicationLog",
+        "Server":"VMDEVPRO-04",
+        "ConnectionString":"Data Source=VMDEVPRO-04;Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"VMDEVPRO-04",
+        "ConnectionString":"Data Source=VMDEVPRO-04;Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"VMDEVPRO-04",
+        "ConnectionString":"Data Source=VMDEVPRO-04;Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"VMDEVPRO-04",
+        "ConnectionString":"Data Source=VMDEVPRO-04;Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"VMDEVPRO-04",
+        "ConnectionString":"Data Source=VMDEVPRO-04;Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"VMDEVPRO-04",
+        "ConnectionString":"Data Source=VMDEVPRO-04;Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"VMDEVPRO-04",
+        "ConnectionString":"Data Source=VMDEVPRO-04;Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"VMDEVPRO-04",
+        "ConnectionString":"Data Source=VMDEVPRO-04;Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"VMDEVPRO-04",
+        "ConnectionString":"Data Source=VMDEVPRO-04;Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    },
+	{
+        "DB":"ApplicationLog",
+        "Server":"VMDEVPRO-05",
+        "ConnectionString":"Data Source=VMDEVPRO-05;Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"VMDEVPRO-05",
+        "ConnectionString":"Data Source=VMDEVPRO-05;Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"VMDEVPRO-05",
+        "ConnectionString":"Data Source=VMDEVPRO-05;Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"VMDEVPRO-05",
+        "ConnectionString":"Data Source=VMDEVPRO-05;Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"VMDEVPRO-05",
+        "ConnectionString":"Data Source=VMDEVPRO-05;Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"VMDEVPRO-05",
+        "ConnectionString":"Data Source=VMDEVPRO-05;Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"VMDEVPRO-05",
+        "ConnectionString":"Data Source=VMDEVPRO-05;Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"VMDEVPRO-05",
+        "ConnectionString":"Data Source=VMDEVPRO-05;Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"VMDEVPRO-05",
+        "ConnectionString":"Data Source=VMDEVPRO-05;Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    },
+	{
+        "DB":"ApplicationLog",
+        "Server":"VMDEVPRO-06",
+        "ConnectionString":"Data Source=VMDEVPRO-06;Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"VMDEVPRO-06",
+        "ConnectionString":"Data Source=VMDEVPRO-06;Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"VMDEVPRO-06",
+        "ConnectionString":"Data Source=VMDEVPRO-06;Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"VMDEVPRO-06",
+        "ConnectionString":"Data Source=VMDEVPRO-06;Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"VMDEVPRO-06",
+        "ConnectionString":"Data Source=VMDEVPRO-06;Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"VMDEVPRO-06",
+        "ConnectionString":"Data Source=VMDEVPRO-06;Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"VMDEVPRO-06",
+        "ConnectionString":"Data Source=VMDEVPRO-06;Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"VMDEVPRO-06",
+        "ConnectionString":"Data Source=VMDEVPRO-06;Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"VMDEVPRO-06",
+        "ConnectionString":"Data Source=VMDEVPRO-06;Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    },
+	{
+        "DB":"ApplicationLog",
+        "Server":"TESTSQL02",
+        "ConnectionString":"Data Source=TESTSQL02;Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"TESTSQL02",
+        "ConnectionString":"Data Source=TESTSQL02;Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"TESTSQL02",
+        "ConnectionString":"Data Source=TESTSQL02;Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"TESTSQL02",
+        "ConnectionString":"Data Source=TESTSQL02;Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"TESTSQL02",
+        "ConnectionString":"Data Source=TESTSQL02;Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"TESTSQL02",
+        "ConnectionString":"Data Source=TESTSQL02;Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"TESTSQL02",
+        "ConnectionString":"Data Source=TESTSQL02;Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"TESTSQL02",
+        "ConnectionString":"Data Source=TESTSQL02;Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"TESTSQL02",
+        "ConnectionString":"Data Source=TESTSQL02;Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    },
+	{
+        "DB":"ApplicationLog",
+        "Server":"CORPSPLRPTDB1",
+        "ConnectionString":"Data Source=CORPSPLRPTDB1;Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"CORPSPLRPTDB1",
+        "ConnectionString":"Data Source=CORPSPLRPTDB1;Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"CORPSPLRPTDB1",
+        "ConnectionString":"Data Source=CORPSPLRPTDB1;Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"CORPSPLRPTDB1",
+        "ConnectionString":"Data Source=CORPSPLRPTDB1;Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"CORPSPLRPTDB1",
+        "ConnectionString":"Data Source=CORPSPLRPTDB1;Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"CORPSPLRPTDB1",
+        "ConnectionString":"Data Source=CORPSPLRPTDB1;Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"CORPSPLRPTDB1",
+        "ConnectionString":"Data Source=CORPSPLRPTDB1;Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"CORPSPLRPTDB1",
+        "ConnectionString":"Data Source=CORPSPLRPTDB1;Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"CORPSPLRPTDB1",
+        "ConnectionString":"Data Source=CORPSPLRPTDB1;Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    },
+	{
+        "DB":"ApplicationLog",
+        "Server":"CORPRESDB1",
+        "ConnectionString":"Data Source=CORPRESDB1;Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"CORPRESDB1",
+        "ConnectionString":"Data Source=CORPRESDB1;Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"CORPRESDB1",
+        "ConnectionString":"Data Source=CORPRESDB1;Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"CORPRESDB1",
+        "ConnectionString":"Data Source=CORPRESDB1;Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"CORPRESDB1",
+        "ConnectionString":"Data Source=CORPRESDB1;Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"CORPRESDB1",
+        "ConnectionString":"Data Source=CORPRESDB1;Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"CORPRESDB1",
+        "ConnectionString":"Data Source=CORPRESDB1;Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"CORPRESDB1",
+        "ConnectionString":"Data Source=CORPRESDB1;Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"CORPRESDB1",
+        "ConnectionString":"Data Source=CORPRESDB1;Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    },
+	{
+        "DB":"ApplicationLog",
+        "Server":"CORPCFRPTDB1",
+        "ConnectionString":"Data Source=CORPCFRPTDB1;Initial Catalog=ApplicationLog;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"SpendOnLife",
+        "Server":"CORPCFRPTDB1",
+        "ConnectionString":"Data Source=CORPCFRPTDB1;Initial Catalog=SpendOnLife;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"Tracking",
+        "Server":"CORPCFRPTDB1",
+        "ConnectionString":"Data Source=CORPCFRPTDB1;Initial Catalog=Tracking;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"CreditFulfillment",
+        "Server":"CORPCFRPTDB1",
+        "ConnectionString":"Data Source=CORPCFRPTDB1;Initial Catalog=CreditFulfillment;Integrated Security=SSPI;"
+    },
+    {
+        "DB":"OTServices",
+        "Server":"CORPCFRPTDB1",
+        "ConnectionString":"Data Source=CORPCFRPTDB1;Initial Catalog=OTServices;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"APICallLog",
+        "Server":"CORPCFRPTDB1",
+        "ConnectionString":"Data Source=CORPCFRPTDB1;Initial Catalog=APICallLog;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Atlas",
+        "Server":"CORPCFRPTDB1",
+        "ConnectionString":"Data Source=CORPCFRPTDB1;Initial Catalog=Atlas;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"Bureau",
+        "Server":"CORPCFRPTDB1",
+        "ConnectionString":"Data Source=CORPCFRPTDB1;Initial Catalog=Bureau;Integrated Security=SSPI;"
+    },	
+    {
+        "DB":"AffiliateManager",
+        "Server":"CORPCFRPTDB1",
+        "ConnectionString":"Data Source=CORPCFRPTDB1;Initial Catalog=AffiliateManager;Integrated Security=SSPI;"
+    }
+]

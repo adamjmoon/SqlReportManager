@@ -1,0 +1,1 @@
+start /d "C:\Program Files (x86)\IIS Express\" iisexpress.exe /apppool:"Clr4IntegratedAppPool" /config:%~dp0/applicationhost.config

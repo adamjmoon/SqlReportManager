@@ -1,0 +1,57 @@
+[	      
+    {
+        "Selected" : false,
+        "Text" : "VMDEVPRO-01",
+        "Value":"VMDEVPRO-01"
+    },
+	{
+        "Selected" : false,
+        "Text" : "VMDEVPRO-02",
+        "Value": "VMDEVPRO-02"
+    },
+	{
+        "Selected" : false,
+        "Text" : "VMDEVPRO-03",
+        "Value": "VMDEVPRO-03"
+    },
+    {
+        "Selected" : false,
+        "Text" : "VMDEVPRO-04",
+        "Value": "VMDEVPRO-04"
+    },
+    {
+        "Selected" : false,
+        "Text" : "VMDEVPRO-05",
+        "Value": "VMDEVPRO-05"
+    },
+    {
+        "Selected" : false,
+        "Text" : "VMDEVPRO-06",
+        "Value": "VMDEVPRO-06"
+    },
+	{
+        "Selected" : false,
+		"Text" : "TESTSQL02",
+        "Value":"TESTSQL02"
+    },
+	{
+        "Selected" : false,
+		"Text" : "CORPSPLRPTDB1",
+        "Value":"CORPSPLRPTDB1"
+    },
+	{
+        "Selected" : false,
+		"Text" : "CORPRESDB1",
+        "Value": "CORPRESDB1"
+    },
+	{
+        "Selected" : false,
+        "Text" : "CORPCFRPTDB1",
+        "Value":"CORPCFRPTDB1"
+    },	
+	{
+        "Selected" : true,
+		"Text" : "localhost",
+        "Value": "localhost"
+    }
+]
