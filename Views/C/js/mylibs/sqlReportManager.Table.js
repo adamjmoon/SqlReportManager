@@ -27,7 +27,7 @@ var SqlReportManager = (function (parent, $) {
                         SqlReportManager.LoadSql();
                         $('a[href*="#results"]').click();
                         $("#loading").hide();
-                        
+                        $("div#table" + index + "Wrapper").unblock();
                         $("div#table" + index + "Wrapper").block({
                             message: '<h1>Query Returned 0 Results</h1>',
                             css: {
@@ -48,7 +48,7 @@ var SqlReportManager = (function (parent, $) {
 
                     } else {
 
-                        TableTools.DEFAULTS.aButtons = ["copy", "csv", "xls"];
+                        
                         if (json.aoColumns.length == 0) {
 
                             $("#loading").hide();
@@ -71,9 +71,7 @@ var SqlReportManager = (function (parent, $) {
                                 [5, 10, 25, 50, "All"]
                             ],
                             json.sDom = 'T<"clear">lrtip';
-                            json.oTableTools = {
-                                sSwfPath: "/Views/C/js/TableTools-2.0.1/media/swf/copy_cvs_xls.swf"
-                            };
+                           
                             json.sScrollX = "100%";
                             json.bAutoWidth = true;
                             json.bLengthChange = true;
@@ -96,6 +94,7 @@ var SqlReportManager = (function (parent, $) {
                             $('select').trigger('change.DT');
                             //                            $("#loading").fadeOut(1000);
 
+                            $("#table" + index + "Wrapper").unblock();
                             $('#table' + index + 'Wrapper .text_filter', this).change(function () {
                                 oTable.fnFilter("^" + $(this).val() + "$", null, true); // &lt;--- add 3rd parameter "true" and add anchors
                             });
@@ -146,6 +145,7 @@ var SqlReportManager = (function (parent, $) {
         }, function (data) {
             parent.SqlReport.Sql = data.sql;
             parent.SqlReport.ReportName = SqlReportManager.Selected.Report;
+           
             window.sqlEditor.getSession().getDocument().setValue(data.sql);
             $("#reportName").val(parent.SqlReport.ReportName);
         });
@@ -176,8 +176,7 @@ var SqlReportManager = (function (parent, $) {
     };
 
     parent.SaveReport = function () {
-
-        parent.SqlReport.Sql = $("#sqlTextArea").val();
+        parent.SqlReport.Sql =  window.sqlEditor.getSession().getDocument().getValue();
         parent.SqlReport.ReportName = $("#reportName").val();
         parent.SqlReport.DB = parent.Selected.DB;
         var request = $.ajax({

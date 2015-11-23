@@ -82,7 +82,7 @@ var expandSnippet = {
 };
 
 var onChangeMode = function(e, editor) {
-    loadSnippetsForMode(editor.session.$mode);
+    //loadSnippetsForMode(editor.session.$mode);
 };
 
 var loadSnippetsForMode = function(mode) {

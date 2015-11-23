@@ -33,7 +33,6 @@ Remove this if you use the .htaccess -->
     <!-- CSS : implied media="all" -->
 
     <link rel="stylesheet" href="Views/C/js/TableTools-2.0.1/media/css/TableTools.css">
-    <link rel="stylesheet" href="Views/C/js/fileupload/fileuploader.css">
     <link rel="stylesheet" href="Views/C/css/bootstrap.css">
     <link rel="stylesheet" href="Views/C/css/bootstrap-theme.css">
     <link rel="stylesheet" href="Views/C/css/styles.css">
@@ -619,7 +618,7 @@ Remove this if you use the .htaccess -->
             position: absolute;
         }
     </style>
-    <script src="./ace_files/emmet.js"></script>
+    
     <style>
         .ace_editor.ace_autocomplete .ace_marker-layer .ace_active-line {
             background-color: #CAD6FA;
@@ -663,15 +662,13 @@ Remove this if you use the .htaccess -->
         }
     </style>
    
-</head>
 
 
 <script src="Views/C/js/libs/LAB.min.js"></script>
 </head>
 
 <body class="ace-dark">
-
-
+    <!-- <a href='http://spl.local/us/6019/3489b48/p120/000/spa/7bef?FirstName=David '>TEST</a> -->
     @RenderBody()
     <div id="container" class="">
         <header class="headroom">
@@ -696,7 +693,7 @@ Remove this if you use the .htaccess -->
                 </h4>
                 <select id="reportList" class="form-control input-lg"></select>
             </div>
-            <div class="col-md-1">
+            <div class="col-md-2">
                 <h4>
                     <span class="label label-default">Theme</span>
                 </h4>
@@ -717,7 +714,7 @@ Remove this if you use the .htaccess -->
             </div>
             <div class="col-md-1">
                 <h4>
-                    <span class="label label-default">Execute Query</span>
+                    <span class="label label-default">Execute</span>
                 </h4>
                 <button type="button" id="pullReport" class="btn btn-lg btn-success" title="Execute Query">
                     <i class="glyphicon glyphicon-play"></i>
@@ -767,8 +764,8 @@ Remove this if you use the .htaccess -->
     position: relative;
     float: right;
     top: -35px;">
-                        <span class="btn btn-info pull-left" style="padding: 0px;"><span class="label label-inverse" style="font-size: 26px;">Query</span><input type="text" id="reportName" class="input-lg" style="margin:2px;width:auto;">
-                        <button id="saveReport" class="btn btn-warning btn-lg" style="margin:2px;">Save Query</button>
+                        <span class="btn btn-info pull-left" style="padding: 0px;"><span class="label label-inverse" style="font-size: 26px;">Query</span><input type="text" id="reportName" class="input-lg" style="margin:2px;width:400px;overflow: visible;">
+                        <button id="saveReport" class="btn btn-warning btn-lg" style="margin:2px;">Save</button>
                         </span>
                         
                         
@@ -787,9 +784,7 @@ Remove this if you use the .htaccess -->
             .script("http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js").wait()
             .script("Views/C/js/DataTables-1.8.2/media/js/jquery.dataTables.js")
             .script("http://ajax.aspnetcdn.com/ajax/bootstrap/3.0.3/bootstrap.min.js")
-            .script("Views/C/js/JQuery-DataTables-ColumnFilter/media/js/jquery.dataTables.columnFilter.js")
-            .script("Views/C/js/TableTools-2.0.1/media/js/ZeroClipboard.js")
-            .script("Views/C/js/TableTools-2.0.1/media/js/TableTools.min.js")
+            .script("Views/C/js/JQuery-DataTables-ColumnFilter/media/js/jquery.dataTables.columnFilter.js")   
             .script("Views/C/js/libs/nicescroll.js")
             .script("Views/C/js/libs/jquery.blockUI.js")
             .script("Views/C/js/libs/jquery.fillSelect.js")

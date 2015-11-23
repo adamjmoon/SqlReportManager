@@ -172,5 +172,10 @@ table {} .dataTables_scrollHeadInner table div.DataTables_sort_wrapper {
 .DTTT_container {
 
     background-color: #fff;
+    width: 182px;
 
+}
+
+.dataTables_scrollBody{
+    max-height: 700px !important;
 }

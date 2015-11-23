@@ -1,1 +1,1 @@
-%systemroot%\system32\inetsrv\AppCmd add site /name:SqlReports /id:12 /physicalPath:E:\projects_scratch\Utils\SqlReportManager /bindings:http/*:81:sql
+%systemroot%\system32\inetsrv\AppCmd add site /name:SqlReports /id:12 /physicalPath:C:\Users\%USERNAME%\documents\github\SqlReportManager /bindings:http/*:81:sql

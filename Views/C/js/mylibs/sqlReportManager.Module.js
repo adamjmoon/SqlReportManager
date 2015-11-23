@@ -4,7 +4,7 @@ var SqlReportManager = function ($) {
     srm.Selected = {};
     srm.Selected.Server = "localhost";
     srm.Selected.DB = "ApplicationLog";
-    srm.Selected.Report = "Recent Errors 200";
+    srm.Selected.Report = "Errors Last 100";
     srm.Selected.WhereClause = "";
     srm.SqlReport = {};
     srm.SqlReport.Sql = "";
@@ -70,7 +70,7 @@ var SqlReportManager = function ($) {
             srm.Selected.Report = $("#reportList option:selected").text();
             srm.LoadSql();
             srm.UpdateUrlSearch();
-            return false;
+            $('a[href*="#sql"]').click();
         });
         
         $("#themes").change(function () {
