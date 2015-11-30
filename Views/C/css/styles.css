@@ -113,9 +113,14 @@ table tr td,
 
 table thead tr th {
 
-    text-align: center;
+    text-align: left;
+    overflow-x: nowrap;
+    white-space:nowrap;
+    border-bottom: solid #fff 3px;
 
 }
+
+table thead tr th { font-size: 14px;}
 
 table {} .dataTables_scrollHeadInner table div.DataTables_sort_wrapper {
 
@@ -147,9 +152,9 @@ table {} .dataTables_scrollHeadInner table div.DataTables_sort_wrapper {
 
     display: flex;
 
-    align-items: center;
+    align-items: left;
 
-    justify-content: center;
+    justify-content: left;
 
 }
 
